@@ -1,0 +1,80 @@
+online exam system
+
+#Intro
+ 
+team 
+Pankaj(Leader)
+Tanuj
+Ronak
+Radha Singh
+
+
+#About 
+
+
+our project 'Online Exam POrtal',
+It is a type of online exam system which helps student who are not able to attend physical mode to any institutions. 
+
+
+In our project any student can appear for any exam from anywhere either from centre or from his/her home and he or she can also be able to download his or her result easily in pdf form.
+or in point of view of any institutions, institute can conduct any exam modify any exam paper and also be able to check result of students and see their previous records. institute can also be able to modift the login id of any student and can add or remove student .
+
+Institute can also send a notification before the exam to alert the student and also can result pdf to student mail id.
+
+
+
+#Objective
+
+the main objective behind this project is to increase convienence in taking exam either in group or single and to reduce the chances of any type of mistakes or miscellaneous activitiesduring the exam.
+
+
+#what we use in it
+
+in our project we use
+-- java(mostly jsp(java server page) for making it to work on web and servlet to link with jsp on the server)
+and 
+--css,js,and html for frontend work and for backend we use jsp and servlet(for making it to work on web and servlet to link with jsp on the server).
+
+#How it works
+
+*for admin purpose,
+admin have to logged in the portal with his/her credentials and after admin login ,admin will able to view or edit his/her profile on the portal.
+
+Admin is also able to set the questions,decide the subject and modify them.
+
+Admin is also able to change student credentials in case student forget.
+Admin can also add or modify the student and check their results and other details.
+Admin can also send result to student in their Email ID..
+
+
+*For users  
+ User will log in the portal with his/her credentials and after then he/she will be able to select the exam in which they want to appear. after exam student will be able to download pdf of his/her result.
+
+
+
+#How Is it good from existing software
+
+*In our project we use captcha in user & admin logged in for more security purpose.
+*Ease in conducting exam as admin have features to see users detail.
+*Use Email for direct sending result to student which prevent chances of lossing result
+
+
+#Advantages 
+1 easy maintainable
+2 flexible timing
+3 ease in taking multiple exam
+4 single person can operate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
